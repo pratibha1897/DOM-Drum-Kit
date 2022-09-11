@@ -1,0 +1,85 @@
+body{
+    text-align: center;
+    background-color: #283149;
+}
+
+h1{
+    font-size: 5rem;
+    color: #dbedf3;
+    font-family: "Arvo",cursive;
+    text-shadow: 3px 0 #da0463;
+}
+
+footer{
+    color: #dbedf3;
+    font-family: sans-serif;
+}
+
+.p{
+    background-image: url("images/1.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.r{
+    background-image: url("images/2.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.a1{
+    background-image: url("images/3.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.t{
+    background-image: url("images/4.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.i{
+    background-image: url("images/5.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.b{
+    background-image: url("images/6.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.h{
+    background-image: url("images/7.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.a2{
+    background-image: url("images/8.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+
+.set{
+    margin: 10% auto;
+    text-align: center;
+}
+
+.drum{
+    display: inline-block;
+    border: 10px solid #bfd3dd;
+    outline: none;
+    font-size: 5rem;
+    line-height: 2;
+    color: #da0463;
+    font-weight: 900;
+    width: 140px;
+    height: 140px;
+    border-radius: 15px;
+    text-align: center;
+    margin: 10px;
+}
